@@ -1,0 +1,15 @@
+D:\GitHub\Longest Palindromic Substring_05\bin\Debug\net6.0\Longest Palindromic Substring_05.exe
+D:\GitHub\Longest Palindromic Substring_05\bin\Debug\net6.0\Longest Palindromic Substring_05.deps.json
+D:\GitHub\Longest Palindromic Substring_05\bin\Debug\net6.0\Longest Palindromic Substring_05.runtimeconfig.json
+D:\GitHub\Longest Palindromic Substring_05\bin\Debug\net6.0\Longest Palindromic Substring_05.dll
+D:\GitHub\Longest Palindromic Substring_05\bin\Debug\net6.0\Longest Palindromic Substring_05.pdb
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.csproj.AssemblyReference.cache
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.AssemblyInfoInputs.cache
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.AssemblyInfo.cs
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.csproj.CoreCompileInputs.cache
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.dll
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\refint\Longest Palindromic Substring_05.dll
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.pdb
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\Longest Palindromic Substring_05.genruntimeconfig.cache
+D:\GitHub\Longest Palindromic Substring_05\obj\Debug\net6.0\ref\Longest Palindromic Substring_05.dll
