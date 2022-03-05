@@ -1,4 +1,4 @@
-public class Solution
+public class Solution_05
 {
     public string LongestPalindrome(string s)
     {

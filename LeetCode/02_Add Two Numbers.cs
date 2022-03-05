@@ -8,7 +8,7 @@
         this.next = next;
     }
 }
-public class Solution
+public class Solution_02
 {
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
     {

@@ -1,4 +1,4 @@
-public class Solution
+public class Solution_03
 {
     public int LengthOfLongestSubstring(string s)
     {

@@ -1,4 +1,4 @@
-﻿public class Solution
+﻿public class Solution_11
 {
     public int MaxArea(int[] height)
     {

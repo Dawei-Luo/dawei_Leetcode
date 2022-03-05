@@ -1,4 +1,4 @@
-﻿public class Solution {
+﻿public class Solution_1920 {
     public int[] BuildArray(int[] nums) {
         int[] result = new int[nums.Length];
         for (int i = 0; i < nums.Length; i++)

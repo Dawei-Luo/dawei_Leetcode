@@ -1,4 +1,4 @@
-public class Solution
+public class Solution_15
 {
     public IList<IList<int>> ThreeSum(int[] nums)
     {

@@ -1,4 +1,4 @@
-public class Solution
+public class Solution_17
 {
     public IList<string> LetterCombinations(string digits)
     {
